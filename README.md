@@ -1,1 +1,5 @@
-# Analysis-of-Education-and-Opportunities-in-Trinidad-Tobago-
+# starter_folder
+
+This repo....
+
+It is organised as follows...
